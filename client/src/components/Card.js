@@ -11,7 +11,6 @@ const DivCon = styled.div`
     width: 50%;
     height: 20rem;
     background: white;
-
 `;
 
 function Card(){
